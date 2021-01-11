@@ -14,4 +14,30 @@ Start tag	Element content	End tag
 <p>	My first paragraph.	</p>
 <br>	none	none
 
+WEB BROWSERS. 
+•The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly.
+
+•A browser does not display the HTML tags, but uses them to determine how to display the document:
+
+•View in Browser
+
+HTML PAGE STRUCTURE 
+•Below is a visualization of an HTML page structure:
+
+<html>
+<head>
+<title>Page title</title>
+</head>
+<body>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+</body>
+</html>
+
+
+NOTE :
+
+•The content inside the <body> section (the white area above) will be displayed in a browser. The content inside the <title> element will be shown in the browser's title bar or in the page's tab.
+
     
