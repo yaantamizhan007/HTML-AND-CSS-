@@ -1,0 +1,48 @@
+# HTML-AND-CSS-
+ 
+
+• what is HTML?
+•HTML STANDS FOR HYPER TEXT. MARKUP LANGUAGE 
+•ITS IS ERROR LESS PROGRAM
+•ITS HAVE TAG & ARRTIBUTES 
+•HTML SAVE AS EXTENSION HTML (Ex:index.HTML) save with ANYNAME but when we upload the file the website search the name of index.html 
+•it is easy to learn 
+•<!---comment tag---> it is the executable line in the write anything doesn't show error
+•<h1 > Heading tag </h1> it is heading tag size differ like h1 h2 h3 h4 h5 h6
+•<p></p> it is a paragraph tag.  
+•HTML starts with <!DOCTYPE HTML>
+
+•HTML describes the structure of a Web page
+•HTML consists of a series of elements
+•HTML elements tell the browser how to display the content
+•HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+
+
+**EXAMPLE**
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+</body>
+</html>
+
+**EXAMPLE EXPLAINATION**
+
+•The <!DOCTYPE html> declaration defines that this document is an HTML5 document
+•The <html> element is the root element of an HTML page
+•The <head> element contains meta information about the HTML page
+•The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+•The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+•The <h1> element defines a large heading
+•The <p> element defines a paragraph
+
+
+
+
+
+
+
